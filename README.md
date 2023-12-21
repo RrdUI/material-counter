@@ -14,7 +14,7 @@ This repository contains a straightforward countdown timer built with HTML, CSS,
 
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/RrdUI/material-counter.git)>
+   git clone <https://github.com/RrdUI/material-counter.git>
    
 2. Open `index.html` in a web browser to view the countdown timer.
 
