@@ -33,7 +33,3 @@ RrdUI
 ## License
 
 This project is licensed under the MIT. See the LICENSE.md file for details.
-
-## Acknowledgments
-
-[Any acknowledgments or credits you want to include]
